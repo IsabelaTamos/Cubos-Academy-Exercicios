@@ -1,23 +1,19 @@
-*{
-    margin: 0px;
-    padding: 0px;
-}
 
 body{
-    margin: 0px;
+    margin: 0;
     background-color: gray;
 }
 
-header{
+header {
     padding: 15px;
-    background-color: lightgrey;
+    background-color: lightgray;
 }
 
-section{
+section {
     color: white;
     padding: 30px;
 }
 
-p{
+p {
     margin-bottom: 150px;
 }
